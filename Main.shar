@@ -1,0 +1,5 @@
+-# Starting of the Sharp Code!
+
+Shar.Dependancies=Connect:{PRINT}: "Hello! This is your starting point of your own first Sharp Program.";
+Shar.Util=Connect:{WAIT}: 1;
+Shar.Dependancies=Connect:{PRINT}: "Ending current session.";
