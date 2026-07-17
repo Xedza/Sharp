@@ -5,4 +5,5 @@ This is a custom coding language called Sharp! Which was created for specifics a
 # SYNTAX 
 
 Shar.Depandancies=Connect:{Print}: "Hello Test!};
+
 Shar.Util=Connect:{WAIT}: 1;
